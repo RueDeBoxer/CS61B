@@ -1,0 +1,24 @@
+package com.google.rey;
+
+/** To draw a triangle with stars
+ * easy but i spent an afternoon
+ * fuck me
+ */
+    public class Makestar {
+        public static void makeStar() {
+            int size = 9;
+            for (int row = 0; row < size; row++) {
+                for (int i = 0; i <= row; i++) {
+                    System.out.print("*");
+                }
+                System.out.println("");
+            }
+            }
+    public static void main(String[] args) {
+        makeStar();
+    }
+}
+
+
+
+
