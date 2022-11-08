@@ -1,2 +1,2 @@
 # CS61B
-I'm self learning programing, this is my 2018CS61B record
+I'm self learning programming, this is my 2018CS61B record
